@@ -1,5 +1,9 @@
 #define<siu.c>
 
+/*   Define function prototypes here */
+int sum(int x, int y); 
+
+
 //This is the main function
 void main(){
 	
